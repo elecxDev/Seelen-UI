@@ -3,6 +3,8 @@
   Seelen UI
 </h1>
 
+<h3>Version 19.38.1 (Beta)</h3>
+
 <h2 align="center">
   Fully Customizable Desktop Environment for Windows
   <br/>
